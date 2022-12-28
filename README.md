@@ -1,4 +1,4 @@
 # ERD diagram
-Как открыть: diagrams.net -> GitHub -> Открыть существующую диаграмму -> ERD
+Как открыть: GitHub -> ERD -> Download ZIP -> Diagrams.net
 
 Выполнил: Тимофеев Глеб 
