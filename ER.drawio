@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-28T12:54:09.010Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.5.716 Yowser/2.5 Safari/537.36" etag="oI0wv3Hk_5ehuF65-voX" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-28T12:56:24.152Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.5.716 Yowser/2.5 Safari/537.36" etag="FTv0hyEcG04U9A0icRDe" version="20.7.4" type="github">
   <diagram id="S4ZHQnEI5zB_dq3WCSS1" name="Страница 1">
     <mxGraphModel dx="2213" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -174,17 +174,17 @@
             <mxPoint x="120" y="170.00000000000045" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vZIxkEGsscEVKpL2EppK-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.201;exitY=0.006;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;exitPerimeter=0;" parent="1" source="vZIxkEGsscEVKpL2EppK-24" target="vZIxkEGsscEVKpL2EppK-5" edge="1">
+        <mxCell id="vZIxkEGsscEVKpL2EppK-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.032;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;entryPerimeter=0;" parent="1" target="vZIxkEGsscEVKpL2EppK-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-390" y="660" />
-              <mxPoint x="-480" y="660" />
-              <mxPoint x="-480" y="523" />
+              <mxPoint x="-430" y="850" />
+              <mxPoint x="-430" y="338" />
             </Array>
+            <mxPoint x="-400" y="850" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vZIxkEGsscEVKpL2EppK-24" value="Shop" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-414" y="700" width="120" height="160" as="geometry" />
+          <mxGeometry x="-400" y="700" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="vZIxkEGsscEVKpL2EppK-25" value="Имя Столбца" style="swimlane;startSize=20;" parent="vZIxkEGsscEVKpL2EppK-24" vertex="1">
           <mxGeometry y="20" width="120" height="140" as="geometry" />
@@ -247,7 +247,7 @@
             <mxPoint x="-270" y="450" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aR7pRef3RNW33j0qKMe8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=ERmany;startFill=0;endArrow=ERone;endFill=0;" edge="1" parent="1" source="vTul4OdPjVE6quElLBkW-3" target="vZIxkEGsscEVKpL2EppK-25">
+        <mxCell id="aR7pRef3RNW33j0qKMe8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.005;exitY=0.049;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=ERmany;startFill=0;endArrow=ERone;endFill=0;exitPerimeter=0;" edge="1" parent="1" source="vTul4OdPjVE6quElLBkW-2" target="vZIxkEGsscEVKpL2EppK-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
